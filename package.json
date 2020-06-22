@@ -1,0 +1,11 @@
+{
+  "name": "ersd-toolbelt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/disablePayloadInSubscriptions.js"
+  },
+  "dependencies": {
+    "got": "^11.3.0"
+  }
+}
